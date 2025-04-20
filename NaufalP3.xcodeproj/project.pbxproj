@@ -410,6 +410,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 15.2;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.NaufalP3;
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.naufal.p3;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
@@ -447,6 +448,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 15.2;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.NaufalP3;
+				"PRODUCT_BUNDLE_IDENTIFIER[sdk=iphoneos*]" = com.naufal.p3;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
